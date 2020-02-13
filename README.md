@@ -2,3 +2,4 @@ This will be a general repo for things usefull to my time in NIU course 638 Appl
 
 [printing requirements out of pip](https://note.nkmk.me/en/python-pip-install-requirements/)
 
+[virtual evn with jupyter](https://janakiev.com/blog/jupyter-virtual-envs/)
